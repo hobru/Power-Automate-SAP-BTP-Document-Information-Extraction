@@ -1,6 +1,6 @@
 # Power Automate and SAP BTP Document Information Extraction
 
-This repo provides the Power Automate flow file to quickly test the end-to-end scenario to consume the Document Information Extraction service in Power Automate. 
+This repo provides the Power Automate flow file to quickly test the end-to-end scenario to consume the Document Information Extraction service in Power Automate. See also Blog [Leveraging BTP services in Microsoft Power Platform](https://blogs.sap.com/2022/07/13/leveraging-btp-services-in-microsoft-power-platform/)
 Download the [ZIP-File](https://github.com/hobru/Power-Automate-SAP-BTP-Document-Information-Extraction/blob/main/PowerAutomate%2BSAPBTPDocumentInformationExtraction.zip), upload it to your Power Automate Flow and update the Service Key in the step "Set Service Key".
 
 For a simple test, use this Invoice-file https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf from https://developers.sap.com/tutorials/cp-aibus-dox-swagger-ui.html 
